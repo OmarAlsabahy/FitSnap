@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="setGoalColor">#000000</color>
+    <color name="foodImagShadow">#31000000</color>
+    <color name="faa057">#FAA057</color>
+    <color name="fafaff">#FAFAFF</color>
+    <color name="f8b546">#F8B546</color>
+    <color name="health_rating_background">#8B8B8BA6</color>
+    <color name="f9c769">#f9c769</color>
+</resources>
